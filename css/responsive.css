@@ -1,0 +1,1963 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (min-width: 1200px) and (max-width: 1555px)
+{
+	.circle span
+	{
+		font-size: 24px;
+		height:185px;
+	}
+	.circle figure
+	{
+		height:185px;
+	}
+	.each_box .description
+	{
+		font-size:20px;
+	}
+	.blog_holder .blogBox figure
+	{
+		width:99px;
+	}
+	.blog_holder .blogBox figcaption
+	{
+		font-size:20px;
+	}
+	.teamSliderHolder .bx-wrapper .bx-next
+	{
+		right:-17px;
+	}
+	.teamSliderHolder .bx-wrapper .bx-prev
+	{
+		left:-17px;
+	}
+	.sectionLeft ul li
+	{
+		width:127px;
+	}
+	.sectionLeft ul li figure img
+	{
+		width:100%
+	}
+	.blogcontent .blog_content p
+	{
+		font-size:18px;
+		line-height:30px;
+		margin-bottom:10px;
+	}
+	.serviceDefination p
+	{
+		font-size:22px;
+	}
+}
+@media only screen and (min-width: 1360px) and (max-width: 1555px)
+{
+	.circle span,.circle figure
+	{
+		height:199px;
+	}
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1199px)
+{
+	.banner ul li .bannerCaption h1
+	{
+		font-size:40px;
+		margin-bottom:10px;
+	}
+	.banner ul li .bannerCaption h2
+	{
+		font-size:23px;
+	}
+	.servicecircleholder 
+	{
+		text-align:center;
+	}
+	.circleHolder
+	{
+		width:320px;
+		float:none;
+		display:inline-block;
+		vertical-align:top;
+		margin-bottom:20px;
+	}
+	.circle span,
+	.circle figure
+	{
+		height:280px;
+	}
+	.body_section
+	{
+		padding:52px 0;
+	}
+	.circleCaption
+	{
+		margin-top:20px;
+	}
+	.each_box .description
+	{
+		font-size:20px;
+		width:100%;
+	}
+	.teamSliderHolder .bx-wrapper .bx-next
+	{
+		right:0;
+	}
+	.teamSliderHolder .bx-wrapper .bx-prev
+	{
+		left:0;
+	}
+	.blog_holder .blogBox figure
+	{
+		width:80px;
+	}
+	.blog_holder .blogBox figcaption
+	{
+		font-size:18px;
+	}
+	.testimonialSlideHolder
+	{
+		width:100%;
+	}
+	.body_section h2
+	{
+		font-size:30px;
+	}
+	/*ABOUT*/
+	.pageTitleHolder
+	{
+		width:100%;
+	}
+	.salon_left
+	{
+		position:static;
+		float:left;
+	}
+	.salon_left p
+	{
+		font-size:18px;
+	}
+	.inner_body.about_page .body_section
+	{
+		padding:30px 0;
+	}
+	.teamBox h3
+	{
+		font-size:20px;
+		margin-bottom:15px;
+	}
+	.designation
+	{
+		font-size:18px;
+	}
+	.memberDetails p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.teamBox figure
+	{
+		height:140px;
+	}
+	.mission p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	/*ABOUT*/
+	/*SERVICE*/
+	.serviceDefination p
+	{
+		font-size:20px;
+		line-height:30px;
+	}
+	/*SERVICE*/
+	/*BLOG*/
+	.blogcontent .blog_content
+	{
+		position:static;
+		float:right;
+	}
+	.blogcontent .blog_content h3
+	{
+		margin-bottom:15px;
+	}
+	.blogcontent .blog_content p
+	{
+		font-size:18px;
+		line-height:30px;
+		padding-bottom:0;
+	}
+	.innerBanner.details_page
+	{
+		height:600px;
+	}
+	/*BLOG*/
+	/*CONTACT*/
+	.add_box p
+	{
+		font-size:20px;
+	}
+	
+	/*CONTACT*/
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px)
+{
+	.banner ul li .bannerCaption h1
+	{
+		font-size:30px;
+		margin-bottom:10px;
+	}
+	.banner ul li .bannerCaption h2
+	{
+		font-size:16px;
+	}
+	.servicecircleholder 
+	{
+		text-align:center;
+	}
+	.circleHolder
+	{
+		width:320px;
+		float:none;
+		display:inline-block;
+		vertical-align:top;
+		margin-bottom:20px;
+	}
+	.circle span,
+	.circle figure
+	{
+		height:280px;
+	}
+	.body_section
+	{
+		padding:52px 0;
+	}
+	.circleCaption
+	{
+		margin-top:20px;
+	}
+	.each_box .description
+	{
+		font-size:20px;
+		width:100%;
+	}
+	.teamSliderHolder .bx-wrapper .bx-next
+	{
+		right:0;
+	}
+	.teamSliderHolder .bx-wrapper .bx-prev
+	{
+		left:0;
+	}
+	.blog_holder .blogBox figure
+	{
+		width:80px;
+	}
+	.blog_holder .blogBox figcaption
+	{
+		font-size:18px;
+	}
+	.testimonialSlideHolder
+	{
+		width:100%;
+	}
+	.body_section h2
+	{
+		font-size:30px;
+		margin-bottom:15px;
+	}
+	.menu ul li
+	{
+		margin-right:18px;
+	}
+	header
+	{
+		position:relative;
+	}
+	.headerRight
+	{
+		width: 100%;
+		position: absolute;
+		top: 46px;
+		right: 0;
+		padding-right: 20px;
+	}
+	.logo
+	{
+		margin-bottom:50px;
+	}
+	.bottom
+	{
+		width:100%;
+		text-align:center;
+		margin-top:49px;
+	}
+	.appointmentBtn, .callusbtn
+	{
+		display:inline-block;
+		float:none;
+		vertical-align:top;
+		margin-right:40px;
+	}
+	.ThreeBoxes .each_box:first-child
+	{
+		padding-left: 0;
+		padding-right: 0;
+		border: 0;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.ThreeBoxes .each_box:not(:first-child)
+	{
+		width:50%;
+	}
+	.testimonialSlideHolder p, .sectionRight p
+	{
+		font-size:20px;
+	}
+	/*ABOUT*/
+	.pageTitleHolder
+	{
+		width:100%;
+	}
+	.salon_left
+	{
+		position:static;
+		float:left;
+		width:100%;
+	}
+	.salon_right
+	{
+		width:100%;
+	}
+	.salon_left p
+	{
+		font-size:18px;
+		padding-bottom:0;
+		margin-bottom:0;
+	}
+	.inner_body.about_page .body_section
+	{
+		padding:30px 0;
+	}
+	.teamBox h3
+	{
+		font-size:20px;
+		margin-bottom:15px;
+	}
+	.designation
+	{
+		font-size:18px;
+	}
+	.memberDetails p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.teamBox figure
+	{
+		height:140px;
+	}
+	.mission p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.pageTitleHolder h1
+	{
+		font-size:50px;
+		margin-bottom:10px;
+	}
+	.pageTitleHolder .sub_title
+	{
+		font-size:20px;
+	}
+	.salon_left h4
+	{
+		margin-bottom:10px;
+	}
+	/*ABOUT*/
+	/*SERVICE*/
+	.serviceDefination p
+	{
+		font-size:20px;
+		line-height:30px;
+	}
+	.appointmentsec .container
+	{
+		width:100%;
+	}
+	.serviceSlider
+	{
+		width:300px;
+		float:none;
+		margin:0 auto;
+		margin-bottom:70px;
+	}
+	.serviceRate
+	{
+		width:50%;
+	}
+	.servicepage_each_section
+	{
+		padding:40px 0;
+	}
+	/*SERVICE*/
+	/*BLOG*/
+	.blogcontent .blog_content
+	{
+		position:static;
+		float:right;
+		width: 100%;
+		padding: 0 15px;
+	}
+	.blogcontent .blog_content h3
+	{
+		margin-bottom:15px;
+	}
+	.blogcontent .blog_content p
+	{
+		font-size:18px;
+		line-height:30px;
+		padding-bottom:0;
+	}
+	.blogcontent .blogImg
+	{
+		width:100%;
+		margin-bottom:15px;
+	}
+	.innerBanner.details_page
+	{
+		height:400px;
+	}
+	.blog_details
+	{
+		width:100%;
+	}
+	/*BLOG*/
+	/*CONTACT*/
+	.add_box p
+	{
+		font-size:16px;
+	}
+	.add_box
+	{
+		width:50%;
+	}
+	.add_box:last-child
+	{
+		float:none;
+		margin:0 auto;
+	}
+	.add_box:nth-child(2)
+	{
+		border-right:0;
+	}
+	/*CONTACT*/
+	/*APPOINTMENT*/
+	.appoint_frm
+	{
+		width:100%;
+		padding-left:25px;
+		padding-right:25px;
+	}
+	/*APPOINTMENT*/
+}
+@media only screen and (min-width: 1000px) and (max-width: 1024px)
+{
+	.headerRight
+	{
+		width: auto;
+		position: static;
+		top: 46px;
+		right: 0;
+		padding-right: 0;
+	}
+	.logo
+	{
+		margin-bottom:0;
+	}
+	.bottom
+	{
+		width:100%;
+		text-align:center;
+		margin-top:49px;
+	}
+	.appointmentBtn, .callusbtn
+	{
+		display:block;
+		float:left;
+		vertical-align:top;
+		margin-right:40px;
+	}
+	/*ABOUT*/
+	.salon_left,.salon_right
+	{
+		width:50%;
+	}
+	/*ABOUT*/
+	/*BLOG*/
+	.blogcontent .blog_content
+	{
+		width:50%;
+	}
+	.blogcontent .blogImg
+	{
+		width:50%;
+		margin-bottom:0;
+	}
+	/*BLOG*/
+	/*CONTACT*/
+	.add_box
+	{
+		width:33.33%;
+	}
+	.add_box:last-child
+	{
+		float:left;
+		margin:0 auto;
+	}
+	.add_box:nth-child(2)
+	{
+		border-right:1px solid #d4d4d4;
+	}
+	/*CONTACT*/
+
+}
+@media only screen and (min-width: 586px) and (max-width: 767px)
+{
+	.banner ul li .bannerCaption h1
+	{
+		font-size:24px;
+		margin-bottom:10px;
+	}
+	.banner ul li .bannerCaption h2
+	{
+		font-size:16px;
+		margin-bottom:10px;
+	}
+	.servicecircleholder 
+	{
+		text-align:center;
+	}
+	.circleHolder
+	{
+		width:200px;
+		float:none;
+		display:inline-block;
+		vertical-align:top;
+		margin-bottom:20px;
+	}
+	.circle span,
+	.circle figure
+	{
+		height:180px;
+	}
+	.circle span
+	{
+		font-size:22px;
+	}
+	.body_section
+	{
+		padding:32px 0;
+	}
+	.circleCaption
+	{
+		margin-top:20px;
+	}
+	.each_box .description
+	{
+		font-size:20px;
+		width:100%;
+	}
+	.teamSliderHolder .bx-wrapper .bx-next
+	{
+		right:0;
+	}
+	.teamSliderHolder .bx-wrapper .bx-prev
+	{
+		left:0;
+	}
+	.blog_holder .blogBox figure
+	{
+		width:80px;
+	}
+	.blog_holder .blogBox figcaption
+	{
+		font-size:16px;
+		width:60%;
+	}
+	.blog_holder .blogBox figcaption .title
+	{
+		font-size:14px;
+	}
+	.testimonialSlideHolder
+	{
+		width:100%;
+	}
+	.body_section h2
+	{
+		font-size:30px;
+		margin-bottom:15px;
+	}
+	.menu ul li
+	{
+		margin-right:18px;
+	}
+	header
+	{
+		position:relative;
+	}
+	.headerRight
+	{
+		width: 100%;
+		position: absolute;
+		top: 46px;
+		right: 0;
+		padding-right: 0;
+	}
+	.logo
+	{
+		margin-bottom:50px;
+	}
+	.bottom
+	{
+		width:100%;
+		text-align:center;
+		margin-top:49px;
+	}
+	.appointmentBtn, .callusbtn
+	{
+		display:inline-block;
+		float:none;
+		vertical-align:top;
+	}
+	.ThreeBoxes .each_box:first-child
+	{
+		padding-left: 0;
+		padding-right: 0;
+		border: 0;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.ThreeBoxes .each_box:not(:first-child)
+	{
+		width:50%;
+	}
+	.testimonialSlideHolder p, .sectionRight p
+	{
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.callusbtn em
+	{
+		font-size:24px;
+		top:2px;
+	}
+	.appointmentBtn
+	{
+		margin-right:10px;
+	}
+	.callusbtn
+	{
+		margin-top:12px;
+	}
+	.each_box .gallery li figure
+	{
+		height:70px;
+	}
+	.sectionLeft
+	{
+		width: 100%;
+		padding: 0;
+		border: 0;
+	}
+	.sectionRight
+	{
+		width: 100%;
+		padding: 0;
+		border: 0;
+	}
+	/*ABOUT*/
+	.pageTitleHolder
+	{
+		width:100%;
+	}
+	.salon_left
+	{
+		position:static;
+		float:left;
+		width:100%;
+	}
+	.salon_right
+	{
+		width:100%;
+	}
+	.salon_left p
+	{
+		font-size:18px;
+		padding-bottom:0;
+		margin-bottom:0;
+	}
+	.inner_body.about_page .body_section
+	{
+		padding:30px 0;
+	}
+	.teamBox h3
+	{
+		font-size:20px;
+		margin-bottom:15px;
+		text-align:left;
+		padding-top:0;
+	}
+	.designation
+	{
+		font-size:18px;
+	}
+	.memberDetails p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.teamBox figure
+	{
+		height:140px;
+	}
+	.mission p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.pageTitleHolder h1
+	{
+		font-size:40px;
+		margin-bottom:10px;
+	}
+	.pageTitleHolder .sub_title
+	{
+		font-size:18px;
+	}
+	.salon_left h4
+	{
+		margin-bottom:10px;
+	}
+	.innerBanner
+	{
+		height:300px;
+	}
+	.teamBox
+	{
+		width:100%;
+		border-right:0 !important;
+		border-bottom:1px solid #d4d4d4 !important;
+	}
+	.teamBox:last-child
+	{
+		border-bottom:0 !important
+	}
+	/*ABOUT*/
+	/*SERVICE*/
+	.serviceDefination p
+	{
+		font-size:20px;
+		line-height:30px;
+	}
+	.appointmentsec .container
+	{
+		width:100%;
+	}
+	.serviceSlider
+	{
+		width:300px;
+		float:none;
+		margin:0 auto;
+		margin-bottom:70px;
+	}
+	.serviceRate
+	{
+		width:400px;
+		float:none;
+		clear:both;
+		margin:0 auto;
+		border:0;
+	}
+	.servicepage_each_section
+	{
+		padding:40px 0;
+	}
+	.serviceDefination
+	{
+		width:100%;
+		margin-bottom:20px;
+	}
+	.boxdivision
+	{
+		margin-bottom:20px;
+	}
+	/*SERVICE*/
+	/*BLOG*/
+	.blogcontent .blog_content
+	{
+		position:static;
+		float:right;
+		width: 100%;
+		padding: 0 15px;
+	}
+	.blogcontent .blog_content h3
+	{
+		margin-bottom:15px;
+	}
+	.blogcontent .blog_content p
+	{
+		font-size:18px;
+		line-height:30px;
+		padding-bottom:0;
+	}
+	.blogcontent .blogImg
+	{
+		width:100%;
+		margin-bottom:15px;
+	}
+	.linkTo
+	{
+		margin-top:30px;
+	}
+	.body_section.blog_sec
+	{
+		padding:32px 0;
+	}
+	.blogcontent .blog_content .comments
+	{
+		font-size:16px;
+	}
+	.innerBanner.details_page
+	{
+		height:400px;
+	}
+	.blog_details
+	{
+		width:100%;
+	}
+	.blog_details h3
+	{
+		font-size:30px;
+	}
+	.blog_details p
+	{
+		font-size:20px;
+	}
+	/*BLOG*/
+	/*GALLERY*/
+	.appointmentsec p
+	{
+		font-size:20px;
+		line-height:30px;
+	}
+	/*GALLERY*/
+	/*CONTACT*/
+	.add_box p
+	{
+		font-size:16px;
+	}
+	.add_box
+	{
+		width:50%;
+	}
+	.add_box:last-child
+	{
+		float:none;
+		margin:0 auto;
+	}
+	.add_box:nth-child(2)
+	{
+		border-right:0;
+	}
+	/*CONTACT*/
+	/*APPOINTMENT*/
+	.appoint_frm
+	{
+		width:100%;
+		padding-left:25px;
+		padding-right:25px;
+	}
+	/*APPOINTMENT*/
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 585px)
+{
+	.banner ul li .bannerCaption h1
+	{
+		font-size:20px;
+		margin-bottom:10px;
+	}
+	.banner ul li .bannerCaption h2
+	{
+		font-size:14px;
+		margin-bottom:10px;
+	}
+	.servicecircleholder 
+	{
+		text-align:center;
+	}
+	.circleHolder
+	{
+		width:200px;
+		float:none;
+		display:inline-block;
+		vertical-align:top;
+		margin-bottom:20px;
+	}
+	.circle span,
+	.circle figure
+	{
+		height:180px;
+	}
+	.circle span
+	{
+		font-size:22px;
+	}
+	.body_section
+	{
+		padding:32px 0;
+	}
+	.circleCaption
+	{
+		margin-top:20px;
+	}
+	.each_box .description
+	{
+		font-size:20px;
+		width:100%;
+	}
+	.teamSliderHolder .bx-wrapper .bx-next
+	{
+		right:0;
+	}
+	.teamSliderHolder .bx-wrapper .bx-prev
+	{
+		left:0;
+	}
+	.blog_holder .blogBox figure
+	{
+		width:120px;
+	}
+	.blog_holder .blogBox figcaption
+	{
+		font-size:16px;
+		width:60%;
+	}
+	.blog_holder .blogBox figcaption .title
+	{
+		font-size:14px;
+	}
+	.testimonialSlideHolder
+	{
+		width:100%;
+	}
+	.body_section h2
+	{
+		font-size:30px;
+		margin-bottom:15px;
+	}
+	.menu ul li
+	{
+		margin-right:18px;
+	}
+	header
+	{
+		position:relative;
+	}
+	.headerRight
+	{
+		width: 100%;
+		position: absolute;
+		top: 46px;
+		right: 0;
+		padding-right: 0;
+	}
+	.logo
+	{
+		margin-bottom:50px;
+	}
+	.bottom
+	{
+		width:100%;
+		text-align:center;
+		margin-top:49px;
+	}
+	.appointmentBtn, .callusbtn
+	{
+		display:inline-block;
+		float:none;
+		vertical-align:top;
+	}
+	.ThreeBoxes .each_box:first-child
+	{
+		padding-left: 0;
+		padding-right: 0;
+		border: 0;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.ThreeBoxes .each_box:not(:first-child)
+	{
+		width:100%;
+	}
+	.testimonialSlideHolder p, .sectionRight p
+	{
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.callusbtn em
+	{
+		font-size:24px;
+		top:2px;
+	}
+	.appointmentBtn
+	{
+		margin-right:10px;
+	}
+	.callusbtn
+	{
+		margin-top:12px;
+	}
+	.each_box .gallery li figure
+	{
+		height:70px;
+	}
+	.sectionLeft
+	{
+		width: 100%;
+		padding: 0;
+		border: 0;
+	}
+	.sectionRight
+	{
+		width: 100%;
+		padding: 0;
+		border: 0;
+	}
+	.appointmentBtn
+	{
+		letter-spacing:0;
+	}
+	.callusbtn
+	{
+		letter-spacing:0;
+	}
+	.banner ul li .bannerCaption .btn.pink
+	{
+		font-size:14px;
+	}
+	.footer_logo
+	{
+		width:160px;
+		margin:0 auto;
+		margin-bottom:10px;
+	}
+	.footer_logo img
+	{
+		width:100%;
+	}
+	footer p
+	{
+		font-size:14px;		
+	}
+	/*ABOUT*/
+	.pageTitleHolder
+	{
+		width:100%;
+	}
+	.salon_left
+	{
+		position:static;
+		float:left;
+		width:100%;
+	}
+	.salon_right
+	{
+		width:100%;
+	}
+	.salon_left p
+	{
+		font-size:16px;
+		padding-bottom:0;
+		margin-bottom:0;
+	}
+	.inner_body.about_page .body_section
+	{
+		padding:30px 0;
+	}
+	.teamBox h3
+	{
+		font-size:20px;
+		margin-bottom:15px;
+		text-align:left;
+		padding-top:0;
+	}
+	.designation
+	{
+		font-size:18px;
+	}
+	.memberDetails p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.teamBox figure
+	{
+		height:140px;
+	}
+	.mission p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.pageTitleHolder h1
+	{
+		font-size:24px;
+		margin-bottom:5px;
+	}
+	.pageTitleHolder .sub_title
+	{
+		font-size:16px;
+	}
+	.salon_left h4
+	{
+		margin-bottom:10px;
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.innerBanner
+	{
+		height:150px;
+	}
+	.teamBox
+	{
+		width:100%;
+		border-right:0 !important;
+		border-bottom:1px solid #d4d4d4 !important;
+	}
+	.teamBox:last-child
+	{
+		border-bottom:0 !important
+	}
+	/*ABOUT*/
+	/*SERVICE*/
+	.serviceDefination p
+	{
+		font-size: 16px;
+		line-height: 24px;
+		padding-bottom: 0;
+		margin-bottom: 10px;
+	}
+	.appointmentsec .container
+	{
+		width:100%;
+	}
+	.serviceSlider
+	{
+		width:300px;
+		float:none;
+		margin:0 auto;
+		margin-bottom:70px;
+	}
+	.serviceRate
+	{
+		width:400px;
+		float:none;
+		clear:both;
+		margin:0 auto;
+		border:0;
+	}
+	.servicepage_each_section
+	{
+		padding:40px 0;
+	}
+	.serviceDefination
+	{
+		width:100%;
+		margin-bottom:20px;
+	}
+	.boxdivision
+	{
+		margin-bottom:20px;
+	}
+	.innerPageMenu ul li a
+	{
+		font-size:16px;
+	}
+	.innerPageMenu ul li
+	{
+		margin-right:15px;
+	}
+	.serviceDefination .caption
+	{
+		font-size:20px;
+		line-height:30px;
+	}
+	.serviceDefination .applink
+	{
+		font-size:14px;
+	}
+	.boxdivision span
+	{
+		font-size:16px;
+	}
+	.appointmentsec p
+	{
+		font-size:16px;
+		line-height:24px;
+	}
+	/*SERVICE*/
+	/*BLOG*/
+	.blogcontent .blog_content
+	{
+		position:static;
+		float:right;
+		width: 100%;
+		padding: 0 15px;
+	}
+	.blogcontent .blog_content h3
+	{
+		margin-bottom:15px;
+	}
+	.blogcontent .blog_content p
+	{
+		font-size:18px;
+		line-height:30px;
+		padding-bottom:0;
+	}
+	.blogcontent .blogImg
+	{
+		width:100%;
+		margin-bottom:15px;
+	}
+	.linkTo
+	{
+		margin-top:30px;
+	}
+	.body_section.blog_sec
+	{
+		padding:32px 0;
+	}
+	.blogcontent .blog_content .comments
+	{
+		font-size:16px;
+	}
+	.load_more a,
+	.load_more a i
+	{
+		font-size:16px;
+	}
+	.body_section.blog_sec::after
+	{
+		width:100%;
+	}
+	.innerBanner.details_page
+	{
+		height:80px;
+		background-size:100%;
+	}
+	.blog_details
+	{
+		width:100%;
+		margin:20px 0;
+	}
+	.blog_details h3
+	{
+		font-size:20px;
+	}
+	.blog_details p
+	{
+		font-size:16px;
+		line-height:24px;
+	}
+	.blog_details .comments
+	{
+		font-size:14px;
+	}
+	/*BLOG*/
+	/*GALLERY*/
+	.appointmentsec p
+	{
+		font-size:16px;
+		line-height:24px;
+	}
+	.salon_gallery figure
+	{
+		width:180px;
+		height:180px;
+	}
+	/*GALLERY*/
+	/*CONTACT*/
+	.add_box p
+	{
+		font-size:16px;
+	}
+	.add_box
+	{
+		width:100%;
+		border-right:0 !important;
+		border-bottom:1px solid #d4d4d4;
+		padding-bottom:10px;
+		margin-bottom:10px;
+	}
+	.add_box:last-child
+	{
+		padding-bottom:0;
+		border-bottom:0;
+		margin-bottom:0;
+	}
+	.mapHolder #map
+	{
+		height:250px;
+	}
+	/*CONTACT*/
+	/*APPOINTMENT*/
+	.appoint_frm
+	{
+		width:100%;
+		padding-left:25px;
+		padding-right:25px;
+	}
+	.frm_box_appointment
+	{
+		width:100%;
+		padding-right:0;
+	}
+	.frm_box_appointment .input_box,
+	.frm_box_appointment .input_box.large_gap
+	{
+		margin-bottom:10px;
+	}
+	.appoint_frm  label
+	{
+		font-size:16px;
+	}
+	/*APPOINTMENT*/
+}
+
+
+@media only screen and (max-width: 479px)
+{
+	.banner ul li .bannerCaption h1
+	{
+		font-size:20px;
+		margin-bottom:10px;
+	}
+	.banner ul li .bannerCaption h2
+	{
+		font-size:14px;
+		margin-bottom:10px;
+	}
+	.servicecircleholder 
+	{
+		text-align:center;
+	}
+	.circleHolder
+	{
+		width:200px;
+		float:none;
+		display:inline-block;
+		vertical-align:top;
+		margin-bottom:20px;
+	}
+	.circle span,
+	.circle figure
+	{
+		height:180px;
+	}
+	.circle span
+	{
+		font-size:22px;
+	}
+	.body_section
+	{
+		padding:32px 0;
+	}
+	.circleCaption
+	{
+		margin-top:20px;
+	}
+	.each_box .description
+	{
+		font-size:20px;
+		width:100%;
+	}
+	.teamSliderHolder .bx-wrapper .bx-next
+	{
+		right:0;
+	}
+	.teamSliderHolder .bx-wrapper .bx-prev
+	{
+		left:0;
+	}
+	.blog_holder .blogBox figure
+	{
+		width:80px;
+	}
+	.blog_holder .blogBox figcaption
+	{
+		font-size:16px;
+		width:60%;
+	}
+	.blog_holder .blogBox figcaption .title
+	{
+		font-size:14px;
+	}
+	.testimonialSlideHolder
+	{
+		width:100%;
+	}
+	.body_section h2
+	{
+		font-size:20px;
+		margin-bottom:15px;
+	}
+	.menu ul li
+	{
+		margin-right:18px;
+	}
+	header
+	{
+		position:relative;
+	}
+	.headerRight
+	{
+		width: 100%;
+		position: static;
+		top: 46px;
+		right: 0;
+		padding-right: 0;
+		text-align:center;
+	}
+	.headerRight .social
+	{
+		float:none;
+		display:inline-block;
+		vertical-align:top;
+	}
+	.top
+	{
+		width:100%;
+	}
+	.searc_menu
+	{
+		float:none !important;
+		display:inline-block !important;
+		vertical-align:top !important;
+	}
+	.logo
+	{
+		margin:0 auto;
+		margin-bottom:0;
+		float:none;
+		
+	}
+	.bottom
+	{
+		width:100%;
+		text-align:center;
+		margin-top:0;
+	}
+	.appointmentBtn, .callusbtn
+	{
+		display:inline-block;
+		float:none;
+		vertical-align:top;
+	}
+	.ThreeBoxes .each_box:first-child
+	{
+		padding-left: 0;
+		padding-right: 0;
+		border: 0;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.ThreeBoxes .each_box:not(:first-child)
+	{
+		width:100%;
+	}
+	.testimonialSlideHolder p, .sectionRight p
+	{
+		font-size: 16px;
+		line-height: 24px;
+	}
+	.callusbtn em
+	{
+		font-size:24px;
+		top:2px;
+	}
+	.appointmentBtn
+	{
+		margin-right:10px;
+	}
+	.callusbtn
+	{
+		margin-top:0;
+	}
+	.each_box .gallery li figure
+	{
+		height:70px;
+	}
+	.sectionLeft
+	{
+		width: 100%;
+		padding: 0;
+		border: 0;
+	}
+	.sectionRight
+	{
+		width: 100%;
+		padding: 0;
+		border: 0;
+	}
+	.appointmentBtn
+	{
+		letter-spacing:0;
+	}
+	.callusbtn
+	{
+		letter-spacing:0;
+	}
+	.banner ul li .bannerCaption .btn.pink
+	{
+		font-size:14px;
+	}
+	.footer_logo
+	{
+		width:160px;
+		margin:0 auto;
+		margin-bottom:10px;
+	}
+	.footer_logo img
+	{
+		width:100%;
+	}
+	footer p
+	{
+		font-size:14px;		
+	}
+	.banner ul li .bannerCaption
+	{
+		display:none;
+	}
+	.bx-wrapper .bx-pager
+	{
+		bottom:-38px;
+	}
+	.formSearch form input[type="text"]
+	{
+		width:80% !important;
+	}
+	/*ABOUT*/
+	.pageTitleHolder
+	{
+		width:100%;
+	}
+	.salon_left
+	{
+		position:static;
+		float:left;
+		width:100%;
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-bottom:10px;
+	}
+	.salon_right
+	{
+		width:100%;
+	}
+	.salon_left p
+	{
+		font-size:16px;
+		padding-bottom:0;
+		margin-bottom:0;
+	}
+	.inner_body.about_page .body_section
+	{
+		padding:30px 0;
+	}
+	.teamBox h3
+	{
+		font-size:18px;
+		margin-bottom:5px;
+		text-align:center;
+		padding-top:0;
+	}
+	.designation
+	{
+		font-size:18px;
+	}
+	.memberDetails p
+	{
+		font-size:16px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.teamBox figure
+	{
+		height:auto;
+		width:100%;
+		margin-bottom:10px;
+	}
+	.mission p
+	{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.pageTitleHolder h1
+	{
+		font-size:24px;
+		margin-bottom:5px;
+	}
+	.pageTitleHolder .sub_title
+	{
+		font-size:16px;
+	}
+	.salon_left h4
+	{
+		margin-bottom:10px;
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.innerBanner
+	{
+		height:150px;
+	}
+	.teamBox
+	{
+		width:100%;
+		border-right:0 !important;
+		border-bottom:1px solid #d4d4d4 !important;
+		padding-left:0;
+		padding-right:0;
+		text-align:center;
+	}
+	.teamBox:last-child
+	{
+		border-bottom:0 !important
+	}
+	.memberDetails
+	{
+		width:100%;
+	}
+	/*ABOUT*/
+	/*SERVICE*/
+	.serviceDefination p
+	{
+		font-size: 16px;
+		line-height: 24px;
+		padding-bottom: 0;
+		margin-bottom: 10px;
+	}
+	.appointmentsec .container
+	{
+		width:100%;
+	}
+	.serviceSlider
+	{
+		width:240px;
+		float:none;
+		margin:0 auto;
+		margin-bottom:70px;
+	}
+	.serviceRate
+	{
+		width:100%;
+		float:none;
+		clear:both;
+		margin:0 auto;
+		border:0;
+		padding-left:0;
+		padding-right:0;
+	}
+	.servicepage_each_section
+	{
+		padding:40px 0;
+	}
+	.serviceDefination
+	{
+		width:100%;
+		margin-bottom:20px;
+	}
+	.boxdivision
+	{
+		margin-bottom:20px;
+	}
+	.innerPageMenu ul li a
+	{
+		font-size:14px;
+	}
+	.innerPageMenu ul li
+	{
+		margin-right:5px;
+	}
+	.serviceDefination .caption
+	{
+		font-size:20px;
+		line-height:30px;
+	}
+	.serviceDefination .applink
+	{
+		font-size:14px;
+	}
+	.boxdivision span
+	{
+		font-size:14px;
+	}
+	.appointmentsec p
+	{
+		font-size:16px;
+		line-height:24px;
+	}
+	/*SERVICE*/
+	/*BLOG*/
+	.blogcontent .blog_content
+	{
+		position:static;
+		float:right;
+		width: 100%;
+		padding: 0 15px;
+	}
+	.blogcontent .blog_content h3
+	{
+		margin-bottom: 5px;
+		font-size: 20px;
+	}
+	.blogcontent .blog_content p
+	{
+		font-size:16px;
+		line-height:24px;
+		padding-bottom:0;
+	}
+	.blogcontent .blogImg
+	{
+		width:100%;
+		margin-bottom:15px;
+	}
+	.linkTo
+	{
+		margin-top:30px;
+	}
+	.body_section.blog_sec
+	{
+		padding:32px 0;
+	}
+	.blogcontent .blog_content .comments
+	{
+		font-size:16px;
+		letter-spacing: 1px;
+	}
+	.load_more a,
+	.load_more a i
+	{
+		font-size:16px;
+	}
+	.body_section.blog_sec::after
+	{
+		width:100%;
+	}
+	.innerBanner.details_page
+	{
+		height:140px;
+		background-size:cover;
+		background-position:center
+	}
+	.blog_details
+	{
+		width:100%;
+		margin:20px 0;
+	}
+	.blog_details h3
+	{
+		font-size:20px;
+	}
+	.blog_details p
+	{
+		font-size:16px;
+		line-height:24px;
+	}
+	.blog_details .comments
+	{
+		font-size:14px;
+	}
+	/*BLOG*/
+	/*GALLERY*/
+	.appointmentsec p
+	{
+		font-size:16px;
+		line-height:24px;
+	}
+	.salon_gallery figure
+	{
+		width:180px;
+		height:180px;
+	}
+	.salon_gallery figure:nth-child(6n)
+	{
+		margin-right:25px;
+	}
+	/*GALLERY*/
+	/*CONTACT*/
+	.add_box p
+	{
+		font-size:16px;
+	}
+	.add_box
+	{
+		width:100%;
+		border-right:0 !important;
+		border-bottom:1px solid #d4d4d4;
+		padding-bottom:10px;
+		margin-bottom:10px;
+	}
+	.add_box:last-child
+	{
+		padding-bottom:0;
+		border-bottom:0;
+		margin-bottom:0;
+	}
+	.mapHolder #map
+	{
+		height:250px;
+	}
+	/*CONTACT*/
+	/*APPOINTMENT*/
+	.appoint_frm
+	{
+		width:100%;
+		padding-left:25px;
+		padding-right:25px;
+	}
+	.frm_box_appointment
+	{
+		width:100%;
+		padding-right:0;
+	}
+	.frm_box_appointment .input_box,
+	.frm_box_appointment .input_box.large_gap
+	{
+		margin-bottom:10px;
+	}
+	.appoint_frm  label
+	{
+		font-size:16px;
+	}
+	/*APPOINTMENT*/
+}
+
+
+
+
+
+/*search and menu*/
+@media only screen and (max-width: 767px)
+{
+	.mobile
+	{
+		display:block;
+	}
+	.formSearch
+	{
+		position:fixed;
+		width:100%;
+		height:100%;
+		background-color:rgba(0,0,0,0.95);
+		top:0;
+		left:0;
+		z-index:999;
+		display:none;
+	}
+	.formSearch form
+	{
+		background: #fff;
+		width: auto;
+		position: absolute;
+		top: 50%;
+		padding:25px;
+		transform:translateY(-50%);
+		-webkit-transform:translateY(-50%);
+		-ms-transform:translateY(-50%);
+		-o-transform:translateY(-50%);
+		left:0;
+		right:0;
+		margin:auto;
+		width:80%;
+	}
+	.formSearch form input[type="text"]
+	{
+		width:90%;
+	}
+	.menu
+	{
+		position:fixed;
+		width:100%;
+		height:100%;
+		background-color:rgba(0,0,0,0.98);
+		top:0;
+		left:0;
+		z-index:999;
+		display:none;
+	}
+	.menu ul
+	{
+		margin-top:50px;
+	}
+	.menu ul li
+	{
+		float:none;
+		width:100%;
+		text-align:center;
+		border-bottom:1px solid rgba(255,255,255,0.1);
+		padding:5px 0
+	}
+	.menu ul li:last-child
+	{
+		border-bottom:0;
+	}
+	.searc_menu
+	{
+		float:right;
+		margin-top: 6px;
+		color:#e54d8b
+	}
+	.searc_menu span
+	{
+		margin-right:10px;
+		font-size:24px;
+		
+	}
+	
+}
+
+
+@media only screen and (max-width: 660px)
+{
+	.subSection figure
+	{
+		width:100%;
+		margin-bottom:15px;
+	}
+	.sub_content
+	{
+		width:100%;
+	}
+	.blog_details .date
+	{
+		font-size:20px;
+	}
+}
