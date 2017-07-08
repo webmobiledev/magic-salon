@@ -1,3 +1,3 @@
 # magic-salon
 
-## Demo(http://magicsalon.herokuapp.com/)
+## Demo[http://magicsalon.herokuapp.com/]
