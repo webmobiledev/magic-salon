@@ -1,3 +1,5 @@
 # magic-salon
+This is a magic salon website built with HTML5, CSS3, JavaScript, jQuery, Animations, Slider and so on.
 
-## [Demo](http://magicsalon.herokuapp.com/)
+## View Demo
+http://magicsalon.herokuapp.com/
